@@ -14,5 +14,19 @@ header {
 body {
     border: solid 5px blue;          
     background-color: silver;
-    margin: .25 in;
+    margin: .25in;
+}    
+
+main {
+    border: solid 5px blue;
+    background-color: silver;
+    margin: .25in;
+    Font-size: 150%
+}
+
+footer {
+    border: solid 5px blue;
+    background-color: silver;
+    margin: .25in;
+    font-size: 200%;
 }    
