@@ -5,3 +5,14 @@
 }
 
 header {
+    border: solid 5px blue;
+    background-color: silver;
+    margin: .25in;
+    font size: 200%;
+}    
+
+body {
+    border: solid 5px blue;          
+    background-color: silver;
+    margin: .25 in;
+}    
